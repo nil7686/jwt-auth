@@ -22,3 +22,41 @@ userSchema.methods.generateJWT = function () {
   
   export default UserModel
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
